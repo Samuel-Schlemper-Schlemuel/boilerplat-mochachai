@@ -1,0 +1,9 @@
+node_modules
+.cache
+.config
+.upm
+.prettierignore
+.replit
+replit.nix
+package-lock.json
+.gitattributes
